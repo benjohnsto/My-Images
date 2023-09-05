@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 26,
+    "height" : 19
+  }, {
+    "width" : 51,
+    "height" : 37
+  }, {
+    "width" : 102,
+    "height" : 73
+  }, {
+    "width" : 204,
+    "height" : 146
+  }, {
+    "width" : 408,
+    "height" : 291
+  }, {
+    "width" : 815,
+    "height" : 581
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 815,
+  "@id" : "https://benjohnsto.github.io/My Images/images/childrens-book",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 581
+}
