@@ -1,0 +1,66 @@
+{
+  "id" : "https://benjohnsto.github.io/My Images/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in benjohnsto/My-Images project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 1024,
+    "id" : "https://benjohnsto.github.io/My Images/images/WilliamBailey/canvas/",
+    "label" : {
+      "none" : [ "WilliamBailey" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://benjohnsto.github.io/My Images/images/WilliamBailey/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://benjohnsto.github.io/My Images/images/WilliamBailey/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 32,
+              "height" : 25
+            }, {
+              "width" : 64,
+              "height" : 50
+            }, {
+              "width" : 128,
+              "height" : 100
+            }, {
+              "width" : 256,
+              "height" : 200
+            }, {
+              "width" : 512,
+              "height" : 399
+            }, {
+              "width" : 1024,
+              "height" : 797
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1024,
+            "@id" : "https://benjohnsto.github.io/My Images/images/WilliamBailey",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 797
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1024,
+          "id" : "https://benjohnsto.github.io/My Images/images/WilliamBailey/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 797
+        },
+        "target" : "https://benjohnsto.github.io/My Images/images/WilliamBailey/canvas/"
+      } ]
+    } ],
+    "height" : 797
+  } ]
+}
