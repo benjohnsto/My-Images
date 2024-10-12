@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 2680,
+    "id" : "https://benjohnsto.github.io/My Images/images/humpty/canvas/",
+    "label" : {
+      "none" : [ "humpty" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://benjohnsto.github.io/My Images/images/humpty/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://benjohnsto.github.io/My Images/images/humpty/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 84,
+              "height" : 108
+            }, {
+              "width" : 168,
+              "height" : 215
+            }, {
+              "width" : 335,
+              "height" : 429
+            }, {
+              "width" : 670,
+              "height" : 857
+            }, {
+              "width" : 1340,
+              "height" : 1714
+            }, {
+              "width" : 2680,
+              "height" : 3428
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2680,
+            "@id" : "https://benjohnsto.github.io/My Images/images/humpty",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 3428
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2680,
+          "id" : "https://benjohnsto.github.io/My Images/images/humpty/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 3428
+        },
+        "target" : "https://benjohnsto.github.io/My Images/images/humpty/canvas/"
+      } ]
+    } ],
+    "height" : 3428
+  }, {
     "width" : 1200,
     "id" : "https://benjohnsto.github.io/My Images/images/Nikolaos_Gyzis/canvas/",
     "label" : {
