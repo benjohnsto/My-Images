@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 2680,
-  "@id" : "https://benjohnsto.github.io/My Images/images/humpty",
+  "@id" : "https://benjohnsto.github.io/My-Images/images/humpty",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 3428
 }
