@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 1200,
-  "@id" : "https://benjohnsto.github.io/My Images/images/Nikolaos_Gyzis",
+  "@id" : "https://benjohnsto.github.io/My-Images/images/Nikolaos_Gyzis",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 1725
 }
